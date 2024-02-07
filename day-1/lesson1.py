@@ -6,4 +6,8 @@ name = "toma"
 
 surname = "giunashvili"
 
-print(name)
+age = 12
+
+print("my name is " + name + " age is " + str(age)) 
+print("hello world")
+
