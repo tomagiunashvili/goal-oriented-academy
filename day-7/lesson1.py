@@ -1,0 +1,6 @@
+user_age = imput("how old are you?:    ")
+user_name = imput("what is your name?:  ")
+user_surname = imput("what is your surname?:  ")
+user_liveplace = imput("where do you live?:   ")
+user_age = user_age + str(20)
+print("hi nice to meet you"+ user_name + user_surname + "i like your surname  ")
